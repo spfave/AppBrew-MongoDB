@@ -1,0 +1,23 @@
+{
+  "name": "26-mongodb",
+  "version": "1.0.0",
+  "description": "Course: The Complete Web Development Bootcamp\r Course url: https://www.appbrewery.co/courses",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spfave/AppBrew-MongoDB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spfave/AppBrew-MongoDB/issues"
+  },
+  "homepage": "https://github.com/spfave/AppBrew-MongoDB#readme",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "mongodb": "^3.6.4"
+  }
+}
